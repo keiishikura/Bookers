@@ -59,7 +59,10 @@
   #notice {
     color: green;
   }
-
+  
+  #error {
+    color: green;
+  }
 
   #error_explanation {
     width: 450px;
